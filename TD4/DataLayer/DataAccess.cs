@@ -26,7 +26,7 @@ namespace DataLayer
                                         "port=5433;" +
                                         "Database=BDComptesBancaires;" +
                                         "uid=postgres;" +
-                                        "password=RanJitH007;"
+                                        "password=password;"
 
                     // ------- CHEZ IUT -------
                     //ConnectionString = "Server=localhost;" +
